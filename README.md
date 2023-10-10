@@ -1,6 +1,6 @@
 ### Hello World! I'm Mayank Vekariya 🚀
 
-🔗 [LinkedIn](https://www.linkedin.com/in/MayankVekariya) <br>
+🔗 [LinkedIn](https://www.linkedin.com/in/mayank-vekariya) <br>
 🔗 [LeetCode](https://leetcode.com/mayankpv2001/)
 🔗 [Hackerrank](https://www.hackerrank.com/mayankpv2001)
 
